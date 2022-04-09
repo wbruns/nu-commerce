@@ -22,7 +22,7 @@ To use the application start by entering the mysql shell to source the schema wi
 
 ## **Tutorial**
 
-Click this [video]() link to view a video tutorial of this application in action!
+Click this [video](https://drive.google.com/file/d/1mjqXm5Q4pJ8SUd8CiwjlM2iZDaCHOm9T/view) link to view a video tutorial of this application in action!
 
 ## **Contributing**
 
